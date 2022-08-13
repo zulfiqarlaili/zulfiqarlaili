@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently working on [Just Type](https://just-type.com)
 
-- 👨‍💻 I’m currently working on [Salem Mood Meter](https://salemmoodmeter.me)
+- 👨‍💻 I’m currently working on [Salem Mood Meter](https://salemmoodmeter.web.app)
 
 - 👨‍💻 I’m currently working on [Komuniti Chat App](https://komunitichat.web.app)
 
