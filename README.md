@@ -1,5 +1,5 @@
 <h1 align="center">Zulfiqar Laili</h1>
-<h3 align="center">A Full-Stack|Mobile|DevOps developer from Malaysia</h3>
+<h3 align="center">A Full-Stack | Mobile | DevOps developer from Malaysia</h3>
 
 - 👨‍💻 I’m currently working on [Just Type](https://just-type.com)
 
